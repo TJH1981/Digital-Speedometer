@@ -5,6 +5,7 @@ Image code via LCD assistant
 eeprom code from https://playground.arduino.cc/Code/EEPROMReadWriteLong
 Code set to use motor encoder pulse output with 256 pulses / motor revolution
 Further work: set trip reading to eeprom, smooth stepper motor etc.
+Code will need calibrating to specific vehicle
 *********************************************************************/
 #include <SPI.h>
 #include <Wire.h>
