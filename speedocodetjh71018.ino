@@ -1,6 +1,6 @@
 /*********************************************************************
 Triumph Digital Speedometer
-Tim Hadland 2018
+TJH1981 2018
 Image code via LCD assistant
 eeprom code from https://playground.arduino.cc/Code/EEPROMReadWriteLong
 Code set to use motor encoder pulse output with 256 pulses / motor revolution
